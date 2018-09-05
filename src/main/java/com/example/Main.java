@@ -12,7 +12,7 @@ public class Main {
         PropertyService ps = (PropertyService) context.getBean("propertyService");
         while(true) {
             try {
-                Thread.sleep(1000);
+                Thread.sleep(2000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
