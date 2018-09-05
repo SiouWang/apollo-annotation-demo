@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42b1996-0fb4-420c-83cf-73f43e761e24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/processor/ListBeanDefinitionProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/example/processor/ListBeanProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tp/log/logback.log.2018-09-05" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-    </list>
+    <list default="true" id="a42b1996-0fb4-420c-83cf-73f43e761e24" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -343,12 +335,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536059621603</updated>
       <workItem from="1536059622828" duration="8056000" />
-      <workItem from="1536129608103" duration="5200000" />
+      <workItem from="1536129608103" duration="5390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13256000" />
+    <option name="totallyTimeSpent" value="13446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
