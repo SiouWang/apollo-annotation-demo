@@ -14,7 +14,7 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 - 配置你本机的apollo-core工程的dev.meta地址
 - 安装至你的maven仓库
 - 启动你本机的apollo服务端、管理台
-- 在apollo控制台创建名称为apollo-annotation-demo的APP，并创建如下配置:
+- 在apollo管理台创建名称为apollo-annotation-demo的APP，并创建如下配置:
     userName = 韩梅梅    
     age = 20    
     address = Beijing    
