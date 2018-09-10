@@ -11,19 +11,17 @@ public class PropertyService {
 
     private static final Logger logger = LoggerFactory.getLogger(PropertyService.class);
 
-    @Value("${dbName: default value}")
-    private String dbName;
+    @Value("${userName}")
+    private String userName;
 
-    @Value("${dbUrl: default value}")
-    private String dbUrl;
+    @Value("${age}")
+    private String age;
 
-    @Value("${serverName: default value}")
-    private String serverName;
+    @Value("${address}")
+    private String address;
 
     public void getConfig() {
-        logger.info("dbName = {}", dbName);
-        logger.info("dbUrl = {}", dbUrl);
-        logger.info("serverName = {}", serverName);
+        logger.info("PropertyService: userName = {}, age = {}, address = {}", userName, age, address);
     }
 
 }
